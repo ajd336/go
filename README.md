@@ -1,3 +1,5 @@
+## This repo is now deprecated. Please see: https://github.com/austinjdean/go
+
 # go
 Python utility to search Google from the Linux command line
 
