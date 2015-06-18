@@ -1,4 +1,4 @@
-## This repo is now deprecated. Please see: https://github.com/austinjdean/go
+## This repo is now deprecated. Please see: https://github.com/austinjdean/goo
 
 # go
 Python utility to search Google from the Linux command line
